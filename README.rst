@@ -180,9 +180,12 @@ Serializer class uses dynamic name for each transition if define otherwise defau
 
 
 
-If you feel this library is useful for your work just buy some coffee for me so I'll try improved this and will work on new libraries.
+Finished Customizations
+------------------------
 
-<a href="https://www.buymeacoffee.com/sainipray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+.. image:: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
+   :target: https://www.buymeacoffee.com/sainipray
 
 License
 =======
