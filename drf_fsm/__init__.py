@@ -1,0 +1,5 @@
+__name__ = 'drf_fsm'
+__author__ = 'Neeraj Kumar'
+__version__ = '1.0.0'
+__author_email__ = 'sainineeraj1234@gmail.com'
+__description__ = 'Create Django FSM transitions as a endpoint with Django REST Framework'
