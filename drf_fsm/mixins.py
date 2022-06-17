@@ -56,6 +56,7 @@ class FsmViewSetMixin(APIView):
 
                     # Calling transition method
                     getattr(instance, self.action)()
+                    instance.save()
                     data = self.get_fsm_serializer_data(serializer, self.action)
                     return Response(data)
 
